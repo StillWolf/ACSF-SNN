@@ -1,6 +1,6 @@
 # ACSF-SNN
 
-PyTorch implementation of "A Low Latency Adaptive Coding Spike Framework for Deep Reinforcement Learning" (ACSF). If you use our code or data please cite the [paper](<https://www.ijcai.org/proceedings/2023/0340>).
+PyTorch implementation of "A Low Latency Adaptive Coding Spike Framework for Deep Reinforcement Learning" (ACSF) IJCAI2023. If you use our code or data please cite the [paper](<https://www.ijcai.org/proceedings/2023/0340>).
 
 ## Abstract
 
