@@ -68,7 +68,6 @@ nbclassic==0.4.8
 nbclient==0.7.0
 nbconvert==7.2.5
 nbformat==5.7.0
-nest-simulator==3.3
 notebook==6.5.2
 notebook_shim==0.2.2
 numpy==1.24.0
